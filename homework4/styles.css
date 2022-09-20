@@ -83,6 +83,7 @@ Line-height: 19px;
 Line-height: 100%;
 text-indent: 31px;
 Vertical-align:Top;
+border-radius: 6px;
 
 
 }
@@ -100,7 +101,7 @@ Vertical-align:Top;
     font-size: 16px;
     Line-height: 19px;
     Line-height: 100%;
-  
+    border-radius: 6px;
     Vertical-align:Top;
   
 }
@@ -119,6 +120,7 @@ Vertical-align:Top;
    height: 60px;
     Vertical-align:Top;
     text-indent: 31px;
+    border-radius: 6px;
 }
 
 .Selectservice{
@@ -135,8 +137,7 @@ width:540px;
    height: 60px;
    text-indent: 31px;
 Vertical-align:Top;
-border-style:groove ;
-
+border-radius: 6px;
 }
 
 .submit{
