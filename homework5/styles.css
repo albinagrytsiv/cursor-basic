@@ -4,6 +4,7 @@
     height: 800px;
     width: 1000px;
     position: relative;
+   
     
 }
 
@@ -25,13 +26,15 @@ margin-left: 100px;
     width: 200px;
     border-top: 1px solid rgb(143, 139, 139);
     border-bottom:1px solid rgb(143, 139, 139);    
-
+    padding-left: 20px;
+    
 }
 
 .table1 td {    
     color:rgb(120, 124, 124);
     border-bottom:1px solid rgb(143, 139, 139);
-
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 
@@ -51,10 +54,13 @@ margin-left: 100px;
     width: 200px;
     border-top: 1px solid rgb(143, 139, 139);
     border-bottom:1px solid rgb(143, 139, 139);    
+    padding-left: 20px;
 }
 .table2 td {
     border-bottom: 1px solid rgb(143, 139, 139);
     color:rgb(120, 124, 124);
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .table2{
@@ -69,8 +75,8 @@ margin-top: 300px;
 }
 
 .ikonka1{
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
     margin-right: 15px;
 }
 
@@ -91,37 +97,39 @@ margin-top: 300px;
     text-align: left;
     width: 200px;
     border-top: 1px solid rgb(143, 139, 139);
-    border-bottom:1px solid rgb(143, 139, 139);    
+    border-bottom:1px solid rgb(143, 139, 139);   
+    padding-left: 20px; 
 }
 
 .table3 td {
     border-bottom:1px solid rgb(143, 139, 139);
-   
+    padding-left: 20px;
     color:rgb(120, 124, 124);
+    padding-right: 20px;
 }
 
-.poshyk{
-    position: relative;
-    background-color: rgb(58, 58, 62);
-    color: rgb(120, 124, 124);
-    width: 130px;
-    height: 20px;
-  left: 100px;
-}
+
 .search{
-text-align:center; 
-background-color: rgb(58, 58, 62);
+width: 150px;
+height: 20px;
+ text-align:center; 
+background-color: rgb(78, 71, 71);
+margin-left:40px;
+border-radius: 0.1px;
+border: none;
+margin-left: 90px;
 }
 
 .loupe{
-  position: absolute;
+position: absolute;
     width: 15px;
     height:15px;
-    margin-left: 10px;
-    margin-top: 5px;
+    margin-left: 100px;
+    
 }
 
 .zliva {
     text-align: right;
+ 
 }
 
